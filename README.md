@@ -13,7 +13,8 @@ As soluções estão organizadas por **nível de dificuldade**.
   - `medium`
   - `hard`
 
-- Cada exercício possui uma pasta própria, nomeada no padrão:
+- Cada exercício possui uma pasta própria, nomeada no padrão: <numero-do-exercicio>. <titulo-do-exercicio>
+Exemplo: 1.Two Sum
 
 ---
 
